@@ -1,6 +1,8 @@
 <?php
   require_once("player_abstract.class.php");
 
+  //luis.eduardo
+
   class red extends AbstractPlayer {
 
 
