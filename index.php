@@ -1,5 +1,14 @@
 <?php
-   require_once('evaldao.class.php');
+
+   $files = scandir(".");
+
+  foreach ($files as $file) {
+     if ($file!='index.php' && $file!='player_abastract.class.php') {
+        print($file);
+     }
+
+  }
+
 
 ?>
 <html>
