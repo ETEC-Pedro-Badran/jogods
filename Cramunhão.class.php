@@ -7,7 +7,7 @@
     function desenhar(){
         return "<div>
         
-            <img src='https://tenor.com/view/devil-cuphead-gif-23645201'>
+            <img src='https://c.tenor.com/v6n_fgPHTY8AAAAC/devil-cuphead.gif'>
         
         
         </div>";
