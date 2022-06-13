@@ -7,7 +7,7 @@
     function desenhar(){
         return "<div>
         
-            <img src='https://br.pinterest.com/pin/611645193131734109/'>
+            <img src='https://i.pinimg.com/736x/8e/d3/9b/8ed39bf08b2a00364cd3390847126693.jpg'>
         
         
         </div>";

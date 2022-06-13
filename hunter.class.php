@@ -2,7 +2,7 @@
 <?php
 require_once("player_abstract.class.php");
 
-class Rocky extends AbstractPlayer {
+class Hunter extends AbstractPlayer {
 //Pedro Rodrigues
 
   function desenhar(){
